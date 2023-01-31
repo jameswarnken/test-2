@@ -1,16 +1,16 @@
 ---
 animation: slideInLeft
-title: Nick Sergent
-description: A Personal Definition of Nick Sergent
+title: "James Warnken "
+description: "Hello, my name is James Warnken "
 part_of_speech: pronoun
-pronunciation: nɪk sɜr · jnt
-synonyms: Nicholas
-email: njserg@ymail.com
+pronunciation: "James Warn-Ken "
+synonyms: Jim
+email: james@jameswarnken.com
 facebook: ""
 twitter: ""
-instagram: https://www.instagram.com/nick.sergent/
-github: https://github.com/njserg/
+instagram: ""
+github: https://github.com/jameswarnken
 sitemap:
   priority: 1
-linkedin: https://www.linkedin.com/in/nick-sergent/
+linkedin: https://www.linkedin.com/in/jameswarnken/
 ---
